@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book id="101">
+        <name>Android Book one</name>
+        <price>38.88</price>
+    </book>
+    <book id = "102">
+        <name>Android Book two</name>
+        <price>48.1</price>
+    </book>
+    <book id = "103">
+        <name>Android Book three</name>
+        <price>78.0</price>
+    </book>
+</books>
